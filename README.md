@@ -1,7 +1,7 @@
 # prometheus-custom-instrumentation
 sample application for scraping custom metrics from sample app
 
-## USAGE
+## Usage
 
 1. build docker
 `docker build -t prometheus-sample-app`
