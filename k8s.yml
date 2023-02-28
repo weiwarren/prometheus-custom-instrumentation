@@ -33,7 +33,7 @@ spec:
     spec:
       containers:
       - name: myapp
-        image: 168018301327.dkr.ecr.ap-southeast-2.amazonaws.com/prometheus-sample-app:latest
+        image: prometheus-sample-app:latest
         imagePullPolicy: Always
         ports:
         - containerPort: 8001
